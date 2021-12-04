@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP THAT1512
+D Low-Noise, Differential Audio Preamplifier IC, 0.005% THD+N, -134.8dBu EIN, QFN-16
+K diff amp mic preamp
+F http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf
+$ENDCMP
+#
+$CMP THAT1583
+D Low-Noise, Differential Audio Preamplifier IC, 0.006% THD+N, -128.9dBu EIN, QFN-16
+K diff amp mic preamp
+F http://www.thatcorp.com/datashts/THAT_1583_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rca)(type KiCad)(uri /home/john/kicad/diyperksmic/diyperksmic/RCJ-042)(options "")(descr "CUI RCA JACK"))
+)
