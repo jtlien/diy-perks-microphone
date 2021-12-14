@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun 12 Dec 2021 17:02:29 CST
+
+BeginCmp
+TimeStamp = 6193BCF9
+Path = /618A0A46
+Reference = R4;
+ValeurCmp = 2.2K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61999A49
+Path = /61B0CFB8
+Reference = J1;
+ValeurCmp = Conn_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61993537
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_DIN965;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_DIN965;
+EndCmp
+
+BeginCmp
+TimeStamp = 61993495
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_DIN965;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_DIN965;
+EndCmp
+
+BeginCmp
+TimeStamp = 61977C12
+Path = /61A70ACE
+Reference = J2;
+ValeurCmp = Conn_Coaxial;
+IdModule  = rca:CUI_RCJ-042;
+EndCmp
+
+BeginCmp
+TimeStamp = 61992DDA
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_DIN965;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_DIN965;
+EndCmp
+
+BeginCmp
+TimeStamp = 61992D13
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_DIN965;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_DIN965;
+EndCmp
+
+BeginCmp
+TimeStamp = 6196EB79
+Path = /618A1309
+Reference = C6;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P3.80mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6196EC44
+Path = /6189F57B
+Reference = C7;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P3.80mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6196ED3A
+Path = /6197809F
+Reference = J4;
+ValeurCmp = Conn_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6193CD5A
+Path = /618EFE08
+Reference = U2;
+ValeurCmp = NMA0515SC;
+IdModule  = Converter_DCDC:Converter_DCDC_muRata_NMAxxxxSC_THT;
+EndCmp
+
+BeginCmp
+TimeStamp = 6196E960
+Path = /618A16EA
+Reference = C3;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P3.80mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6196EA2B
+Path = /6189F18A
+Reference = C4;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P3.80mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61971591
+Path = /6193231C
+Reference = J3;
+ValeurCmp = Conn_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61977FE0
+Path = /61AAE045
+Reference = U1;
+ValeurCmp = THAT1512;
+IdModule  = Package_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B32049
+Path = /618A20C2
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B3205C
+Path = /618A1CA3
+Reference = C2;
+ValeurCmp = 22uF;
+IdModule  = Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B3206F
+Path = /618A25AA
+Reference = C5;
+ValeurCmp = 22uF;
+IdModule  = Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BE81
+Path = /6189FA27
+Reference = R1;
+ValeurCmp = 2.2K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BE97
+Path = /618A0280
+Reference = R2;
+ValeurCmp = 2.2K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BEAD
+Path = /618A063D
+Reference = R3;
+ValeurCmp = 2.2K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BEC3
+Path = /6189FE93
+Reference = R5;
+ValeurCmp = 3.9K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BED9
+Path = /618A0E5D
+Reference = R6;
+ValeurCmp = 3.9K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BEEF
+Path = /618EA3CF
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61B6BF05
+Path = /618EE8C8
+Reference = R8;
+ValeurCmp = 100;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+EndListe
